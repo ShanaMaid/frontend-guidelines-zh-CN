@@ -12,7 +12,7 @@
 
 译文:[https://github.com/ShanaMaid/frontend-guidelines-zh-CN/](https://github.com/ShanaMaid/frontend-guidelines-zh-CN/)
 
-
+喜欢得话不妨给我一个`star`?
 
 -------------转载请注明原作者以及译者和出处，请务必保留以上信息-------------
 
