@@ -25,6 +25,31 @@
 
 HTML5为我们提供了大量的语义化元素，目的在于帮助我们更准确地描述网页的内容。确保你自己从这些丰富的语义化元素中受益。
 
+```
+<!-- bad -->
+<div id="main">
+  <div class="article">
+    <div class="header">
+      <h1>Blog post</h1>
+      <p>Published: <span>21st Feb, 2015</span></p>
+    </div>
+    <p>…</p>
+  </div>
+</div>
+
+<!-- good -->
+<main>
+  <article>
+    <header>
+      <h1>Blog post</h1>
+      <p>Published: <time datetime="2015-02-21">21st Feb, 2015</time></p>
+    </header>
+    <p>…</p>
+  </article>
+</main>
+```
+
+
 >Make sure you understand the semantics of the elements you're using. It's worse to use a semantic element in a wrong way than staying neutral.
 
 在你使用这些元素时，请务必保证你理解了它们的语义。以错误地方式去使用一个语义化元素远比按照原来的写法更加糟糕。
