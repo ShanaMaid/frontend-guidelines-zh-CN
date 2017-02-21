@@ -4,13 +4,19 @@
 ## 写在前面的话
 本文原文是一篇来自Github上[@bendc](https://github.com/bendc/)的6,539星的文章,在此声明，原作者保有所有权利，本文仅供技术探讨学习。
 
-作者：[@bendc](https://github.com/bendc/)
+作者:[@bendc](https://github.com/bendc/)
+
 原文:[https://github.com/bendc/frontend-guidelines](https://github.com/bendc/frontend-guidelines)。
 
 译者:[ShanaMaid](https://github.com/shanamaid)
+
 译文:[https://github.com/ShanaMaid/frontend-guidelines-zh-CN/](https://github.com/ShanaMaid/frontend-guidelines-zh-CN/)
 
+
+
 -------------转载请注明原作者以及译者和出处，请务必保留以上信息-------------
+
+
 
 ## frontend-guidelines(前端指南)
 ### HTML
@@ -894,8 +900,7 @@ union(["foo"], ["bar"], ["foo"]);
 see [MIT LICENSE](./LICENSE) for details
 
 ## 补充
-翻译存在不足之处欢迎各位PR进行补充修改
-也可以联系我邮箱uestczeng@gmail.com
+翻译存在不足之处欢迎各位PR进行补充修改，欢迎邮箱联系，uestczeng@gmail.com
 
 ## 鸣谢
 
