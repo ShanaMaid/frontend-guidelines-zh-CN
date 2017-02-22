@@ -636,7 +636,7 @@ createDivs(5);
  * it's named, so it gives you a better idea of the arguments the function is expecting
  * it's a real array, which makes it easier to use.
  
- 别忘了`arguments`对象。额外的参数总会是一个较好的选择，因为：
+ 请忘了`arguments`对象。额外的参数总会是一个较好的选择，因为：
  * 它已经被命名了，所以它能让你在实现函数的功能上有一个更好的期望，能够为你提供理想的参数。
  * 它是一个数组，会让你使用起来更加方面
  
@@ -928,7 +928,6 @@ see [MIT LICENSE](./LICENSE) for details
 翻译存在不足之处欢迎各位PR进行补充修改，欢迎邮箱联系，uestczeng@gmail.com
 
 ## 鸣谢
-
-
+[@xiyuanyuan](https://github.com/xiyuanyuan)
 
 
