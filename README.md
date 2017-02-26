@@ -878,7 +878,7 @@ const n = Math.floor(3.14);
 #### Code reuse(代码复用)
 > Don't be afraid of creating lots of small, highly composable and reusable functions.
 
-不要害怕创建了大量的小的，高组合型和可复用性的涵涵素。
+不要害怕创建大量的小的，高组合型和可复用性的函数。
 
 ```
 // bad
